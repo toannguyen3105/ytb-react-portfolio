@@ -1,10 +1,8 @@
-import React from 'react';
+import React from "react";
 import "./services.css";
 
 const Services = () => {
-  return (
-    <div>Service</div>
-  )
-}
+  return <section id="services">Service</section>;
+};
 
-export default Services
+export default Services;
