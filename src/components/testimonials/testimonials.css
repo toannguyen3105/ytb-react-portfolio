@@ -31,6 +31,7 @@
 .swiper-pagination-clickable .swiper-pagination-bullet {
   background: var(--color-primary);
 }
+
 /* ==================== MEDIA QUERIES (MEDIUM DEVICES) ====================*/
 @media screen and (max-width: 1024px) {
   .container.testimonials__container {
